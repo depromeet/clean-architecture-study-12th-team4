@@ -1,13 +1,11 @@
 ---
-name: chapter
-about: 책의 각 챕터를 구분하기 위해 사용하는 템플릿입니다
-title: "[chapter] "
-labels: chapter
-assignees: ''
+name: weeks
+about: 주차별 이슈 템플릿
+title: "[week] ${n}주차"
+labels: week
+assignees: LeeJejune, seovalue, wooyounggggg, yunyoung1819
 
 ---
 
 ## 제목
-${장 번호}장 - ${장 제목}
-
-## 특이 사항
+${n}주차 범위: ${start}장 ~ ${end}장
