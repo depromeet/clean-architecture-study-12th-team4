@@ -7,5 +7,5 @@ assignees: LeeJejune, seovalue, wooyounggggg, yunyoung1819
 
 ---
 
-## 제목
+기간: 
 ${n}주차 범위: ${start}장 ~ ${end}장

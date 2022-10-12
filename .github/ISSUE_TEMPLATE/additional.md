@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-## 연관 챕터
+## 연관 week
 #{연관 week issue 번호}
 
 ## 조사 내용
